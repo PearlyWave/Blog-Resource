@@ -1,2 +1,2 @@
 # Blog-Resource
-Code in my blog
+Code and data used in my blog.
